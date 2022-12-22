@@ -43,11 +43,11 @@ For The Software Objective the critical issue is to download the data quickly, c
 Key Idea: Read + send sensor data
 
 ##### Technology
-• ARM® arch (CortexTM M4)
-• Bluetooth® Low-Energy (BLE) • Inertial Motion Unit (IMU)
-• SPI/I2C busses (expandability) • Real-time operating system
-• Low power consumption
-• Inexpensive
+- ARM® arch (CortexTM M4)
+- Bluetooth® Low-Energy (BLE) • Inertial Motion Unit (IMU)
+- SPI/I2C busses (expandability) • Real-time operating system
+- Low power consumption
+- Inexpensive
 
 #### Tablet Base Station
 
@@ -60,22 +60,37 @@ Key Idea: Read + send sensor data
 Key Idea: Receive sensor data, associate with user data
 
 ##### Technology
-• Juniper Systems CT8 Tablet 
-• Ruggedized
-• Android Operating System 
-• Bluetooth® radios
-
-
-
-
-
-
-
-
-
-
+- Juniper Systems CT8 Tablet 
+- Ruggedized
+- Android Operating System 
+- Bluetooth® radios
 
 ## UI/UX Design
+- Incorporated “Wong-baker” pain rating scale (medical convention)
+- Simple and Intuitive
+- Patient/User abilities brough to forefront
+    - Eye sight 
+    - Mobility
+- Modularity key
+    - Implemented using Android’s “Fragment” concept
+    - Easily adaptable to other devices
+    - Fragments themselves are modular
+    
+## Roadmap
+- Determine appropriate licenses so projects can be open-sourced 
+- Add additional sensors
+- Build physician analysis engine with automated report generation 
+- Build native iOS app
+- Construct live metrics cloud service
+- Complete FDA medical device approval process
+
+
+
+
+
+
+
+
 ## Technologies
 
 ### 📫 How to reach me:
