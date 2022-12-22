@@ -8,8 +8,7 @@
     3. [Objective](#objective)
 2. [Solution](#solution)
 3. [UI/UX Design](#uiux-design)
-4. [Shift Log Work Bench by BART - Initial Release 1.0 ](#shift-log-work-bench-by-bart---initial-release-10)
-5. [Technologies](#technologies)
+4. Roadmap
 
 ## Summary
  
