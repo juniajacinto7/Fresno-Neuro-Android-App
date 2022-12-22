@@ -7,7 +7,8 @@
     2. [Problems](#problems)
     3. [Objective](#objective)
 2. [Solution](#solution)
-    1. [Architecture](#architecture)
+    1. [Sensor Package Device](#sensor-package-device)
+    2. [Tablet Base Station](#tablet-base-station)
 4. [UI/UX Design](#uiux-design)
 5. [Roadmap](#roadmap)
 
