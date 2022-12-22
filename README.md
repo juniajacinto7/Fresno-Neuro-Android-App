@@ -4,7 +4,7 @@
 ## Table of Contents
 1. [Summary](#summary)
     1. [Background](#background)
-    2. [Problem](#problem)
+    2. [Problems](#problems)
     3. [Objective](#objective)
 2. [Solution](#solution)
 3. [UI/UX Design](#uiux-design)
@@ -19,7 +19,7 @@ their physician to build a treatment plan that mitigates these environmental fac
 The Fresno Institute of Neuroscience is a local company that is mainly involved in providing care to patients
 with neurologic problems but also is involved in research and education.
 
-### Problem(s)
+### Problems
 In order to solve this problem. it is necessary to have a platform that can log a few variables in addition to a patient input about how they are feeling. All of the parameters can be logged at a low data rate (<1/sec). For each patient depending on the clinical condition a different set of sensors may be chosen based on the clinical consideration. The most common might be the orientation of the back, pelvis and maybe upper legs in patients with back pain. In patients this might be an averaged surface EMG and in others might be skin surface temperature and environmental temperature. The patient input should be very simple maybe just a dial or dial plus a button that is also recorded at the same time as the sensor data.
 Once this data is collected there needs to be a system to download the data generate graphs of symptoms vs time and symptoms as a function of sensor readings.
 
