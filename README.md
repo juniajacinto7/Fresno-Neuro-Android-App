@@ -68,7 +68,7 @@ Key Idea: Receive sensor data, associate with user data
 ## UI/UX Design
 - Incorporated “Wong-baker” pain rating scale (medical convention)
 - Simple and Intuitive
-- Patient/User abilities brough to forefront
+- Patient/User abilities brought to forefront
     - Eye sight 
     - Mobility
 - Modularity key
