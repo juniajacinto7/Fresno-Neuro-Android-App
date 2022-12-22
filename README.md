@@ -7,8 +7,9 @@
     2. [Problems](#problems)
     3. [Objective](#objective)
 2. [Solution](#solution)
-3. [UI/UX Design](#uiux-design)
-4. [Roadmap](#roadmap)
+    1. [Architecture](#architecture)
+4. [UI/UX Design](#uiux-design)
+5. [Roadmap](#roadmap)
 
 ## Summary
  
