@@ -85,14 +85,6 @@ Key Idea: Receive sensor data, associate with user data
 - Complete FDA medical device approval process
 
 
-
-
-
-
-
-
-## Technologies
-
 ### 📫 How to reach me:
 - ✉️ send me an <a href="mailto:juniajacinto7@yahoo.com?subject= 💬 Hey June, I liked your Github &body=I believed we might be able to collaborate on.....">email</a>
 - 🌎 visit my personal <a href="https://juniajacinto7.github.io"> site</a> 
