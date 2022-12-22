@@ -1,4 +1,17 @@
 # Fresno Institute of Neuroscience - Medical Android Application
+
+
+## Table of Contents
+1. [Summary](#summary)
+    1. [Background](#background)
+    2. [Problem](#problem)
+    3. [Objective](#objective)
+2. [Solutions](#solutions)
+3. [UI/UX Design](#uiux-design)
+4. [Shift Log Work Bench by BART - Initial Release 1.0 ](#shift-log-work-bench-by-bart---initial-release-10)
+5. [Technologies](#technologies)
+
+## Summary
  
  ### Background
 This project encompasses two related sub-projects. Patients with chronic pain or other neurologic conditions frequently note that their symptoms vary with environmental conditions. This includes heat and light but
@@ -9,6 +22,13 @@ with neurologic problems but also is involved in research and education.
 ### Problem(s)
 In order to solve this problem. it is necessary to have a platform that can log a few variables in addition to a patient input about how they are feeling. All of the parameters can be logged at a low data rate (<1/sec). For each patient depending on the clinical condition a different set of sensors may be chosen based on the clinical consideration. The most common might be the orientation of the back, pelvis and maybe upper legs in patients with back pain. In patients this might be an averaged surface EMG and in others might be skin surface temperature and environmental temperature. The patient input should be very simple maybe just a dial or dial plus a button that is also recorded at the same time as the sensor data.
 Once this data is collected there needs to be a system to download the data generate graphs of symptoms vs time and symptoms as a function of sensor readings.
+### Objectives
+For The Engineering Objective, the goal is to find a small and cheap platform for recording these signals and to generate a way to log the data. Should the sensors be wired or Bluetooth or some other wireless technology? Recordings will be over 1-3 days so power needs to last that long. Must be simple to place on patient and not impair the patient's mobility or be easy to dislodge. The device would be designed for multiple use but should be of moderate price.
+For The Software Objective the critical issue is to download the data quickly, create reports and store the data in some secure format. There must also be an interface that allows addition of demographic data at the time the device is set up.
+
+## Solutions
+## UI/UX Design
+## Technologies
 
 ### 📫 How to reach me:
 - ✉️ send me an <a href="mailto:juniajacinto7@yahoo.com?subject= 💬 Hey June, I liked your Github &body=I believed we might be able to collaborate on.....">email</a>
