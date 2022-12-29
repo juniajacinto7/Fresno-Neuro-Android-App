@@ -34,10 +34,8 @@ For The Software Objective the critical issue is to download the data quickly, c
 ### Architecture 
 
 #### Sensor Package Device
-![FINS Architecture](/Images/architecture-one.png?raw=true "FINS Architecture")
 
 ##### Requirements 
-
 1. Read raw sensor data
 2. Convert to calibrated quaternion orientation
 3. Pack with metadata
@@ -53,7 +51,6 @@ Key Idea: Read + send sensor data
 - Inexpensive
 
 #### Tablet Base Station
-![FINS Architecture](/Images/architecture-two.png?raw=true "FINS Architecture")
 
 ##### Requirements 
 
@@ -68,8 +65,10 @@ Key Idea: Receive sensor data, associate with user data
 
 - Juniper Systems CT8 Tablet 
 - Ruggedized
-- Android Operating System 
 - Bluetooth® radios
+- Android Operating System 
+- Kotlin
+- XML
 
 ## UI/UX Design
 
@@ -85,6 +84,8 @@ Key Idea: Receive sensor data, associate with user data
     - Implemented using Android’s “Fragment” concept
     - Easily adaptable to other devices
     - Fragments themselves are modular
+
+### Initial Release 1.0 (AndroidOS)
     
 #### Home Screen  
 ![FINS Home Screen](/Images/home-page-mockup.png?raw=true "FINS Home Screen")
