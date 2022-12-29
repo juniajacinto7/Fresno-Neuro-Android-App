@@ -53,6 +53,7 @@ Key Idea: Read + send sensor data
 #### Tablet Base Station
 
 ##### Requirements 
+
 1. Present pain & symptom reporting UI to user
 2. Manage multiple sensor pack connections
 3. Receive serialized sensor readings from sensor packs
@@ -61,23 +62,29 @@ Key Idea: Read + send sensor data
 Key Idea: Receive sensor data, associate with user data
 
 ##### Technology
+
 - Juniper Systems CT8 Tablet 
 - Ruggedized
 - Android Operating System 
 - Bluetooth® radios
 
 ## UI/UX Design
+
 - Incorporated “Wong-baker” pain rating scale (medical convention)
+![BART UI Design 1](/images/home-page-mockup.png?raw=true "BART UI Design 1")
+
 - Simple and Intuitive
 - Patient/User abilities brought to forefront
     - Eye sight 
     - Mobility
+    
 - Modularity key
     - Implemented using Android’s “Fragment” concept
     - Easily adaptable to other devices
     - Fragments themselves are modular
     
 ## Roadmap
+
 - Determine appropriate licenses so projects can be open-sourced 
 - Add additional sensors
 - Build physician analysis engine with automated report generation 
