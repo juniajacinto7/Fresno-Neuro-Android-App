@@ -83,7 +83,7 @@ Key Idea: Receive sensor data, associate with user data
     - Easily adaptable to other devices
     - Fragments themselves are modular
     
-#### Home Screen 
+#### Home Screen  
 ![FINS Home Screen](/Images/home-page-mockup.png?raw=true "FINS Home Screen")
 
 #### Profile Screen 
@@ -98,7 +98,7 @@ Key Idea: Receive sensor data, associate with user data
 #### Settings Screen 
 ![FINS Settings](/Images/settings-page-mockup.png?raw=true "FINS Settings")
 
-### Application Initial Draft Designs
+### Application Initial Draft 
 
 #### Home Screen Draft 
 ![FINS Home Draft](/Images/home-page-draft.png?raw=true "FINS Home Draft")
@@ -116,7 +116,7 @@ Key Idea: Receive sensor data, associate with user data
 ![FINS Settings Draft](/Images/settings-page-draft.png?raw=true "FINS Settings Draft")
 
 
-### Website View Draft Designs
+### Web View Draft 
 
 #### Home Webview draft 
 ![FINS Home Webview Draft](/Images/webview-one.png?raw=true "FINS Home Draft")
