@@ -34,8 +34,10 @@ For The Software Objective the critical issue is to download the data quickly, c
 ### Architecture 
 
 #### Sensor Package Device
+![FINS Architecture](/Images/architecture-one.png?raw=true "FINS Architecture")
 
 ##### Requirements 
+
 1. Read raw sensor data
 2. Convert to calibrated quaternion orientation
 3. Pack with metadata
@@ -51,6 +53,7 @@ Key Idea: Read + send sensor data
 - Inexpensive
 
 #### Tablet Base Station
+![FINS Architecture](/Images/architecture-two.png?raw=true "FINS Architecture")
 
 ##### Requirements 
 
