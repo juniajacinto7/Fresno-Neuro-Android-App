@@ -71,7 +71,7 @@ Key Idea: Receive sensor data, associate with user data
 ## UI/UX Design
 
 - Incorporated “Wong-baker” pain rating scale (medical convention)
-![BART UI Design 1](/images/home-page-mockup.png?raw=true "BART UI Design 1")
+![BART UI Design 1](/Images/wong-baker-scale.png?raw=true "BART UI Design 1")
 
 - Simple and Intuitive
 - Patient/User abilities brought to forefront
