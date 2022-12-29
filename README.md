@@ -83,20 +83,52 @@ Key Idea: Receive sensor data, associate with user data
     - Easily adaptable to other devices
     - Fragments themselves are modular
     
-### Home Screen 
-![FINS Wong-Baker](/Images/home-page-mockup.png?raw=true "FINS Wong-Baker")
+#### Home Screen 
+![FINS Home Screen](/Images/home-page-mockup.png?raw=true "FINS Home Screen")
 
-### Profile Screen 
+#### Profile Screen 
 ![FINS Profile Screen](/Images/edit-page-mockup.png?raw=true "FINS Profile Screen")
 
-### Statistics Screen 
+#### Statistics Screen 
 ![FINS Statistics](/Images/statistics-page-mockup.png?raw=true "FINS Statistics")
 
-### Export Screen 
+#### Export Screen 
 ![FINS Export](/Images/export-page-mockup.png?raw=true "FINS Export")
 
-### Settings Screen 
+#### Settings Screen 
 ![FINS Settings](/Images/settings-page-mockup.png?raw=true "FINS Settings")
+
+### Application Initial Draft Designs
+
+#### Home Screen Draft 
+![FINS Home Draft](/Images/home-page-draft.png?raw=true "FINS Home Draft")
+
+#### Profile Screen Draft
+![FINS Profile Draft](/Images/profile-page-draft.png?raw=true "FINS Profile Draft")
+
+#### Statistics Screen Draft
+![FINS Statistics Draft](/Images/statistics-page-draft.png?raw=true "FINS Statistics Draft")
+
+#### Export Screen Draft
+![FINS Export Draft](/Images/export-page-draft.png?raw=true "FINS Export Draft")
+
+#### Settings Screen Draft 
+![FINS Settings Draft](/Images/settings-page-draft.png?raw=true "FINS Settings Draft")
+
+
+### Website View Draft Designs
+
+#### Home Webview draft 
+![FINS Home Webview Draft](/Images/webview-one.png?raw=true "FINS Home Draft")
+
+#### Profile Webview Draft
+![FINS Profile Webview Draft](/Images/webview-two.png?raw=true "FINS Profile Draft")
+
+#### Statistics Webview Draft
+![FINS Statistics Webview Draft](/Images/webview-three.png?raw=true "FINS Statistics Draft")
+
+
+
     
 ## Roadmap
 
