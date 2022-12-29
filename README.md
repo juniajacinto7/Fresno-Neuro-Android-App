@@ -71,7 +71,7 @@ Key Idea: Receive sensor data, associate with user data
 ## UI/UX Design
 
 - Incorporated “Wong-baker” pain rating scale (medical convention)
-![BART UI Design 1](/Images/wong-baker-scale.png?raw=true "BART UI Design 1")
+![FINS Wong-Baker](/Images/wong-baker-scale.png?raw=true "FINS Wong-Baker")
 
 - Simple and Intuitive
 - Patient/User abilities brought to forefront
@@ -82,6 +82,21 @@ Key Idea: Receive sensor data, associate with user data
     - Implemented using Android’s “Fragment” concept
     - Easily adaptable to other devices
     - Fragments themselves are modular
+    
+### Home Screen 
+![FINS Wong-Baker](/Images/home-page-mockup.png?raw=true "FINS Wong-Baker")
+
+### Profile Screen 
+![FINS Profile Screen](/Images/edit-page-mockup.png?raw=true "FINS Profile Screen")
+
+### Statistics Screen 
+![FINS Statistics](/Images/statistics-page-mockup.png?raw=true "FINS Statistics")
+
+### Export Screen 
+![FINS Export](/Images/export-page-mockup.png?raw=true "FINS Export")
+
+### Settings Screen 
+![FINS Settings](/Images/settings-page-mockup.png?raw=true "FINS Settings")
     
 ## Roadmap
 
