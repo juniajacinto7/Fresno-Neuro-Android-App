@@ -1,4 +1,4 @@
-# Fresno Institute of Neuroscience - Medical Android Application
+# Fresno Institute of Neuroscience - Diagnostical Medical Android Application for Chronic Illness
 
 
 ## Table of Contents
